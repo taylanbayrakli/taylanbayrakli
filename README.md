@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @taylanbayrakli
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in JS ,PYTHON and SWIFT
+- 🌱 I’m currently learning SWIFT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me taylanbayrakli@gmail.com
 
 <!---
 taylanbayrakli/taylanbayrakli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
