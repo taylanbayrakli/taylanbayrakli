@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on **JavaScript, React**
 
-🌱 I’m currently learning **.NET, C# and Node for server side**
+🌱 I’m currently learning **.NET, C# and Node (for server side)**
 
 💬 Ask me about **JS**
 
